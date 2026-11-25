@@ -11,6 +11,7 @@ public class BankaHesabi {
         this.hesapSahibi = hesapSahibi;
         this.bakiye = ilkBakiye;
     }
+    
 
     public void paraYatir(double miktar) {
         pozitifMiktariDogrula(miktar);
