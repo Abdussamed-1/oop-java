@@ -33,7 +33,7 @@ java -cp out ders06.AlgoritmaUygulamasi
 java -cp out ders07.SiparisUygulamasi
 ```
 
-## Öğrenme sırası
+## Öğrenme sırasını gösterir
 
 | Ders | Konu | Uygulama | Öğreneceğin kalıp |
 |---|---|---|---|
